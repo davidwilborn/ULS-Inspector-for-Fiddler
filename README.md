@@ -3,7 +3,7 @@ ULS Inspector for Fiddler
 
 Installation
 ------------
-Copy the UlsViewFiddlerExtension.dll file to your Fiddler inspectors folder, e.g. C:\Program Files (x86)\Fiddler2\Inspectors
+Copy the UlsViewFiddlerExtension.dll file to your Fiddler inspectors folder, e.g. C:\Program Files\Fiddler2\Inspectors
 
 How to use the inspector
 ------------------------
