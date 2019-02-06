@@ -1,5 +1,6 @@
 # ULS-Inspector-for-Fiddler
 ULS Inspector for Fiddler v2.1
+http://davidwilborn.com/2019/02/06/uls-log-inspector-for-fiddler/
 
 Requirements
 ------------
